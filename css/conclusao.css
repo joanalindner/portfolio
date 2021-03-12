@@ -1,0 +1,121 @@
+*{margin: 0; padding: 0;}
+
+body {
+    background-image: url("../img/bluegif.gif");
+    background-repeat: no-repeat; 
+    background-size: 1600px 920px; 
+
+}
+
+.menu {
+    list-style: none;
+    border: 1px solid #c3d1d9;
+    background-image: linear-gradient(to right, #f0ab89, #fff385, #c4f0a3, #c2ede8, #b5c8eb, #eec0fa);
+    float: left;
+    
+}
+
+.menu li {
+    position: relative;
+    padding: 2px;
+    margin: 2px;
+    float: left;
+    border-right: 2px solid antiquewhite;
+    
+}
+
+.menu li a {
+    color: white;
+    text-shadow: 1px 1px grey; 
+    padding: 5px 10px; 
+    display: block;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 17.86px;
+
+}
+
+.borda {
+    border: 10px solid white;
+    margin: auto;
+    border-radius: 50px;
+    width: 450px;
+    height: 80px;
+    
+}
+
+    h1 {
+    display: inline-block;
+    color: #bf8ad4;
+    font-size: 42px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px antiquewhite;
+    text-align: center;
+        
+}
+
+#cincopa_5c542e {
+   position: absolute;
+   bottom: 0;
+   width: 1363px;
+    
+}
+
+    h2 {
+    display: inline-block;
+    color: #bf8ad4;
+    font-size: 19.5px;
+    font-family: 'Patrick Hand', cursive;
+    text-shadow: 1.5px 1.5px antiquewhite;
+    text-align: center;
+    list-style-position: inside;
+    
+}
+
+.conclusao {
+    border: 10px solid white;
+    margin: auto;
+    width: 1100px;
+    height: 65px;
+    overflow: auto;
+
+       
+}
+
+.creditos {
+    border: 10px solid white;
+    margin: auto;
+    width: 1100px;
+    height: 65px;
+    overflow: auto;
+    
+}
+
+.inspiracoes {
+    border: 10px solid white;
+    margin: auto;
+    width: 1100px;
+    height: 100px;
+    overflow: auto;
+    
+}
+    
+    h3 {
+    display: inline-block;
+    color: #bf8ad4;
+    font-size: 25px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 2px 2px antiquewhite;
+    text-align: center;
+       
+}
+
+.festa {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: auto;
+    border-radius: 10%;
+    
+}
+
