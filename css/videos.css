@@ -32,15 +32,36 @@ body {
     font-family: 'Bebas Neue', cursive;
     font-size: 17.85px;
 
-
 }
 
 .borda {
     border: 10px solid white;
     margin: auto;
     border-radius: 50px;
-    width: 700px;
+    width: 400px;
+   
+}
+
+.funcqua {
+    margin: auto;
+    border-radius: 50px;
+    width: 560px;
+    height: auto;
+    display: inside-block;
     
+
+}
+
+.videos {
+    border: 10px solid white;
+    margin: auto;
+    border-radius: 50px;
+    width: 560px;
+    height: 350px;
+    display: inside-block;
+    overflow: auto;
+    
+
 }
 
     h1 {    
@@ -61,12 +82,6 @@ body {
         
 }
 
-.playlist {
-    width: 1364.2px;
-    height: 80px;
-    position: absolute;
-    bottom: 0;
-    
-}
+
 
 
