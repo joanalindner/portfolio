@@ -30,7 +30,7 @@ body {
     padding: 4.06px 4.07px; 
     display: block;
     font-family: 'Bebas Neue', cursive;
-    font-size: 17.85px;
+    font-size: 20.13px;
 
 }
 
@@ -69,7 +69,7 @@ body {
     border: 10px solid white;
     margin: auto;
     width: 1000px;
-    height: 65px;
+    height: 90px;
     overflow: auto;
 
        
@@ -79,7 +79,7 @@ body {
     border: 10px solid white;
     margin: auto;
     width: 1000px;
-    height: 130px;
+    height: 60px;
     overflow: auto;
     
 }
@@ -93,4 +93,48 @@ body {
     text-align: center;
         
 }
-       
+
+.imagens {
+    align-content: center;
+    width: 400px;
+    height: auto;
+
+}
+
+.tabela {
+    align-content: center;
+    border: 1px;
+    width: 480px;
+    height: auto; 
+    border-color: #bf8ad4;
+}
+
+    th {
+    color: antiquewhite;
+    font-size: 10px;
+    background-color: lightblue;
+    text-align: center;
+    
+}
+
+    tr {
+    color: hotpink;
+    font-size: 10px;
+    background-color: lightblue;
+    text-align: center;
+    font-weight: bolder;
+        
+}
+
+    td {
+    text-align: center;
+    font-size: 15px;
+        
+}
+
+.imagens {
+    align-content: center;
+    width: 600px;
+    height: auto;
+    
+}

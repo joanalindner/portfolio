@@ -30,7 +30,7 @@ body {
     padding: 4.06px 4.07px; 
     display: block;
     font-family: 'Bebas Neue', cursive;
-    font-size: 17.85px;
+    font-size: 20.13px;
 
 }
 
@@ -45,7 +45,7 @@ body {
 .funcqua {
     margin: auto;
     border-radius: 50px;
-    width: 560px;
+    width: 700px;
     height: auto;
     display: inside-block;
     
@@ -56,7 +56,7 @@ body {
     border: 10px solid white;
     margin: auto;
     border-radius: 50px;
-    width: 560px;
+    width: 700px;
     height: 350px;
     display: inside-block;
     overflow: auto;
